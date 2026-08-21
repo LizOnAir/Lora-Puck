@@ -60,5 +60,8 @@ After reviewing the new version of the pcb, the e-ink display that I picked earl
 
 I rerouted some lines. I was trying to make the lines from the antenna chip to the esp chip more neater with enough spacing to prevent interference of magnetic field. It took me some experiments before finding the best way to route it. Finally I went on to double check everything and added text on the PCB.
 
+<img width="672" height="524" alt="Screenshot 2026-08-21 at 5 15 49 PM" src="https://github.com/user-attachments/assets/63fb00cc-efb2-42c6-84a8-b0760eaf534c" />
+
+
 
 
