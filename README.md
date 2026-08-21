@@ -1,6 +1,8 @@
 # Lora-Puck
 A Lora module with a AHT20 sensors and LCD display to show status.
 
+<img width="672" height="524" alt="PCBMODEL" src="https://github.com/user-attachments/assets/2b0358c4-e8d6-4322-8a1e-a95c31f9b4c6" />
+
 ## Features:
 - detect humidity
 - detect temperature
