@@ -4,7 +4,7 @@ author: Liz
 description: A Lora module with a AHT20 sensors and LCD display to show status
 created_at: 2026-07-16
 ---
-### Total time spent: 9 Hours
+### Total time spent: 13.9 Hours
 
 ## Day 1 - Getting started! - July 16th - 2.5 Hours
 I wanted to make a Lora Puck to learn more about frequency and radio wave.
@@ -62,6 +62,14 @@ I rerouted some lines. I was trying to make the lines from the antenna chip to t
 
 <img width="672" height="524" alt="Screenshot 2026-08-21 at 5 15 49 PM" src="https://github.com/user-attachments/assets/63fb00cc-efb2-42c6-84a8-b0760eaf534c" />
 
+## Day 7 - Programming - August 31st - 4.7 hours
+
+I went to research like how to code Lora cause I have no idea. So I found that there’s like LoRaWan, Lora Alliance. Initially I wanted the Lora module to communicate directly to my phone or via website. I wanted to use LoraWan with the gateway to connect to phone using The Things(open source free gateway) After digging more into it, I found that it need to connect to the gateway using cables. Since there aren’t any nearby my area, I was forced to switch plan. Instead of loraWan, I switch to using two LoRa module to communicate to each other. I found some library (RadioLib, Adafruit AHTX0, Adafruit SH1106) for programming the Lora chip, sensors and display. 
+
+<img width="668" height="466" alt="Screenshot 2026-09-01 at 1 09 46 AM" src="https://github.com/user-attachments/assets/8a06c27f-4820-4559-9164-9be1a420bbbb" />
 
 
+I decided to make a CAD case for the Lora module, so it can stay outdoor during rain and function normally. I start by importing the pcb then draft the overall shape for the case. 
+
+<img width="350" height="290" alt="Screenshot 2026-08-31 at 10 58 07 PM" src="https://github.com/user-attachments/assets/2d656616-3c93-48e2-832d-4cf4e1a858a9" />
 
