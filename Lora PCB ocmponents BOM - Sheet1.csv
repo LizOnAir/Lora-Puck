@@ -1,0 +1,18 @@
+Designator,Comment,Footprint,Manufacturer,Footprint,JLCPCB Part #,Product link,Lib Type,Rec. Order Qty,Unit Price ($),Total Price ($)
+"C11,C2,C3",10UF,402,Samsung Electro-Mechanics,402,C15525,https://jlcpcb.com/partdetail/16204-CL05A106MQ5NUNC/C15525,Basic,20,0.0256,0.512
+J1,USB_C_Receptacle_USB2.0_14P,USB_C_Receptacle_G-Switch_GT-USB-7010ASV,SHOU HAN,USB_C_Receptacle_G-Switch_GT-USB-7010ASV,C2765186,https://jlcpcb.com/partdetail/SHOUHAN-TYPE_C_16PIN_2MD_073/C2765186,Extended,3,0.0743,0.2229
+"SW1,SW2",SW_Push,SW_SPST_TS-1088-xR020,XUNPU,SW_SPST_TS-1088-xR020,C720477,https://jlcpcb.com/partdetail/XUNPU-TS_1088AR02016/C720477,Basic,8,0.0556,0.4448
+L1,15uH,603,microgate,603,C486329,https://jlcpcb.com/partdetail/microgate-MGFL1608F150MTLF/C486329,Extended,6,0.0384,0.2304
+"R1,R2",5.1k,402,UNI-ROYAL(Uniroyal Elec),402,C25905,https://jlcpcb.com/partdetail/26648-0402WGF5101TCE/C25905,Basic,20,0.0026,0.052
+Y1,32MHz,Crystal_SMD_Abracon_ABM10-4Pin_2.5x2.0mm,NDK,Crystal_SMD_Abracon_ABM10-4Pin_2.5x2.0mm,C843260,https://jlcpcb.com/partdetail/NDK-NX2016SA_32MHZ_STD_CZS5/C843260,Extended,5,0.3518,1.759
+"R5,R6",10k,402,UNI-ROYAL(Uniroyal Elec),402,C25744,https://jlcpcb.com/partdetail/26487-0402WGF1002TCE/C25744,Basic,20,0.0031,0.062
+U2,SX1262IMLTRT,QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm,SEMTECH,QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm,C191341,https://jlcpcb.com/partdetail/SEMTECH-SX1262IMLTRT/C191341,Extended,2,3.1938,6.3876
+"C7,C8",4.7uF,402,Samsung Electro-Mechanics,402,C23733,https://jlcpcb.com/partdetail/24469-CL05A475MP5NRNC/C23733,Basic,20,0.0233,0.466
+U8,TP4056-42-ESOP8,SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm_ThermalVias,TOPPOWER(Nanjing Extension Microelectronics),SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm_ThermalVias,C16581,https://jlcpcb.com/partdetail/17264-TP4056_42ESOP8/C16581,Extended,2,0.1843,0.3686
+"C1,C4,C5,C6",100nF,402,Samsung Electro-Mechanics,402,C1525,https://jlcpcb.com/partdetail/1877-CL05B104KO5NNNC/C1525,Basic,20,0.0051,0.102
+U3,AP2112K-3.3,SOT-23-5,TECH PUBLIC,SOT-23-5,C23380830,https://jlcpcb.com/partdetail/TECHPUBLIC-AP2112K_33TRG1/C23380830,Extended,5,0.1104,0.552
+U4,AHT20_C2757850,AHT20_C2757850,Aosong (Guangzhou) Elec,AHT20_C2757850,C2757850,https://jlcpcb.com/partdetail/Aosong_Guangzhou_Elec-AHT20/C2757850,Extended,2,0.7944,1.5888
+U1,ESP32-S3-WROOM-1,ESP32-S3-WROOM-1,Espressif Systems,ESP32-S3-WROOM-1,C2913202,https://jlcpcb.com/partdetail/3198300-ESP32_S3_WROOM_1N16R8/C2913202,Extended,2,5.1335,10.267
+AE1,Antenna,U.FL_Hirose_U.FL-R-SMT-1_Vertical,HJ Tech,U.FL_Hirose_U.FL-R-SMT-1_Vertical,C2831497,https://jlcpcb.com/partdetail/HJTech-434MHz_SMA_Flexibleantenna/C2831497,Extended,2,1.8699,3.7398
+PCB Assembled Qty：2,,,,,,,,,,"Est. Total Price：26.7920
+ (Pre-order parts require a quotation for final pricing.)"
